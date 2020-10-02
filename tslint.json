@@ -1,0 +1,12 @@
+{
+    "rulesDirectory": [
+      "node_modules/tslint"
+    ],
+    "linterOptions": {
+      "exclude": [
+        "node_modules/**/*",
+        "tests/**/*"
+      ]
+    }
+  }
+  
